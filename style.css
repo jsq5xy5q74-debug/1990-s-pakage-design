@@ -40,7 +40,7 @@ h1 {
 	position: absolute;
     gap: 150px;
     margin-top: 5px;
-    margin-left: 550px;
+    margin-left: 530px;
 }
 
 .g-shape img:hover {
@@ -48,7 +48,7 @@ h1 {
 }
 
 .g1 img{
-	width: 290px;
+	width: 250px;
 }
 
 .g2 img{
@@ -60,11 +60,11 @@ h1 {
 }
 
 .g4 img{
-	width: 240px;
+	width: 200px;
 }
 
 .g5 img{
-	width: 260px;
+	width: 240px;
 }
 
 .g6 img{
@@ -94,8 +94,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 200px;
-    left: 700px;
+    top: 180px;
+    left: 680px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -107,8 +107,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 620px;
-    left: 750px;
+    top: 580px;
+    left: 715px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -120,8 +120,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 1080px;
-    left: 720px;
+    top: 1030px;
+    left: 680px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -133,8 +133,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 1500px;
-    left: 740px;
+    top: 1400px;
+    left: 690px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -146,8 +146,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 1840px;
-    left: 720px;
+    top: 1700px;
+    left: 690px;
     color: white;
 	font-family: 'Song Myung', serif;
  }
@@ -159,8 +159,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 2160px;
-    left: 730px;
+    top: 2030px;
+    left: 700px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -172,8 +172,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 2500px;
-    left: 720px;
+    top: 2380px;
+    left: 710px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -185,8 +185,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 2960px;
-    left: 740px;
+    top: 2820px;
+    left: 700px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -198,8 +198,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 3380px;
-    left: 720px;
+    top: 3240px;
+    left: 680px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -211,8 +211,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 3760px;
-    left: 720px;
+    top: 3620px;
+    left: 680px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -659,7 +659,7 @@ h1 {
 	position: absolute;
     gap: 150px;
     margin-top: 5px;
-    margin-left: 550px;
+    margin-left: 540px;
 }
 
 .m-shape img:hover {
@@ -671,11 +671,11 @@ h1 {
 }
 
 .m2 img{
-	width: 150px;
+	width: 130px;
 }
 
 .m3 img{
-	width: 200px;
+	width: 180px;
 }
 
 .m4 img{
@@ -698,7 +698,7 @@ h1 {
     align-items: center;
     position: absolute;
     top: 180px;
-    left: 710px;
+    left: 700px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -710,8 +710,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 590px;
-    left: 680px;
+    top: 550px;
+    left: 670px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -723,8 +723,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 980px;
-    left: 700px;
+    top: 930px;
+    left: 689px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -736,8 +736,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 1310px;
-    left: 730px;
+    top: 1250px;
+    left: 720px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -749,8 +749,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 1710px;
-    left: 720px;
+    top: 1650px;
+    left: 710px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -762,8 +762,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 2000px;
-    left: 700px;
+    top: 1950px;
+    left: 690px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -935,7 +935,7 @@ h1 {
 	position: absolute;
     gap: 150px;
     margin-top: 5px;
-    margin-left: 550px;
+    margin-left: 530px;
 }
 
 .p-shape img:hover {
@@ -986,7 +986,7 @@ h1 {
     align-items: center;
     position: absolute;
     top: 280px;
-    left: 720px;
+    left: 705px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -999,7 +999,7 @@ h1 {
     align-items: center;
     position: absolute;
     top: 550px;
-    left: 730px;
+    left: 720px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -1012,7 +1012,7 @@ h1 {
     align-items: center;
     position: absolute;
     top: 1000px;
-    left: 730px;
+    left: 710px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -1025,7 +1025,7 @@ h1 {
     align-items: center;
     position: absolute;
     top: 1380px;
-    left: 720px;
+    left: 710px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -1038,7 +1038,7 @@ h1 {
     align-items: center;
     position: absolute;
     top: 1720px;
-    left: 730px;
+    left: 720px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -1051,7 +1051,7 @@ h1 {
     align-items: center;
     position: absolute;
     top: 2120px;
-    left: 720px;
+    left: 710px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -1064,7 +1064,7 @@ h1 {
     align-items: center;
     position: absolute;
     top: 2540px;
-    left: 700px;
+    left: 690px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -1076,8 +1076,8 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 3090px;
-    left: 720px;
+    top: 3095px;
+    left: 700px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
@@ -1090,7 +1090,7 @@ h1 {
     align-items: center;
     position: absolute;
     top: 3610px;
-    left: 710px;
+    left: 690px;
     color: white;
 	font-family: 'Song Myung', serif;
 }
