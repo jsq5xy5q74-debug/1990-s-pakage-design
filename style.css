@@ -683,7 +683,7 @@ h1 {
 }
 
 .g4-shape {
-	width: 70px;
+	width: 80px;
 	position: absolute;
 	top: 25px;
 	left: 530px;
@@ -692,7 +692,7 @@ h1 {
 .g5-shape {
 	width: 100px;
 	position: absolute;
-	top: 36px;
+	top: 34px;
 	right: 670px;
 }
 
@@ -704,7 +704,7 @@ h1 {
 }
 
 .g7-shape {
-	width: 80px;
+	width: 70px;
 	position: absolute;
 	top: 30px;
 	right: 350px;
@@ -899,10 +899,10 @@ h1 {
 }
 
 .mf img {
-	width: 390px;
+	width: 400px;
 	position: absolute;
 	top: 290px;
-	left: 570px;
+	left: 560px;
 	z-index: 2;
 	animation: bounce 2s infinite;
 }
@@ -1238,7 +1238,7 @@ h1 {
 }
 
 .ph img {
-	width: 110px;
+	width: 115px;
 	position: absolute;
 	top: 270px;
 	left: 694px;
