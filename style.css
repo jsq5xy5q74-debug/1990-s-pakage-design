@@ -20,7 +20,6 @@ h1 {
 
 .materials img {
     width: 80%;
-    filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .materials img:hover {
@@ -218,43 +217,67 @@ h1 {
 }
 
 .h-icon {
-	top: 1150px;
+	top: 1130px;
 	right: 10px;
 	position: absolute;
 }
 
 .h-icon1 {
-	top: 3870px;
+	top: 3850px;
 	right: 10px;
 	position: absolute;
 }
 
 .h-icon2 {
-	top: 2120px;
+	top: 2100px;
 	right: 10px;
 	position: absolute;
 }
 
 .h-icon3 {
-	top: 3770px;
+	top: 3750px;
 	right: 10px;
 	position: absolute;
 }
 
 .h-icon img{
-	width: 50px;
+	width: 75px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.h-icon img:hover{
+	opacity: 1;
 }
 
 .h-icon1 img {
-	width: 50px;
+	width: 75px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.h-icon1 img:hover{
+	opacity: 1;
 }
 
 .h-icon2 img {
-	width: 50px;
+	width: 75px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.h-icon2 img:hover{
+	opacity: 1;
 }
 
 .h-icon3 img {
-	width: 50px;
+	width: 75px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.h-icon3 img:hover{
+	opacity: 1;
 }
 
 .g-icon {
@@ -283,18 +306,42 @@ h1 {
 
 .g-icon img {
 	width: 50px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.g-icon img:hover{
+	opacity: 1;
 }
 
 .g-icon1 img {
 	width: 50px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.g-icon1 img:hover{
+	opacity: 1;
 }
 
 .g-icon2 img {
 	width: 50px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.g-icon2 img:hover{
+	opacity: 1;
 }
 
 .g-icon3 img {
 	width: 50px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.g-icon3 img:hover{
+	opacity: 1;
 }
 
 .m-icon {
@@ -323,18 +370,42 @@ h1 {
 
 .m-icon img {
 	width: 50px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.m-icon img:hover{
+	opacity: 1;
 }
 
 .m-icon1 img {
 	width: 50px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.m-icon1 img:hover{
+	opacity: 1;
 }
 
 .m-icon2 img {
 	width: 50px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.m-icon2 img:hover{
+	opacity: 1;
 }
 
 .m-icon3 img {
 	width: 50px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.m-icon3 img:hover{
+	opacity: 1;
 }
 
 .p-icon {
@@ -362,19 +433,43 @@ h1 {
 }
 
 .p-icon img {
-	width: 40px;
+	width: 75px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.p-icon img:hover{
+	opacity: 1;
 }
 
 .p-icon1 img {
-	width: 40px;
+	width: 75px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.p-icon1 img:hover{
+	opacity: 1;
 }
 
 .p-icon2 img {
-	width: 40px;
+	width: 75px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.p-icon2 img:hover{
+	opacity: 1;
 }
 
 .p-icon3 img {
-	width: 40px;
+	width: 75px;
+	opacity: 0.5;
+	transition: opacity 0.2s ease;
+}
+
+.p-icon3 img:hover{
+	opacity: 1;
 }
 
 .ga img {
@@ -384,7 +479,6 @@ h1 {
 	left: 530px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .gb img {
@@ -394,7 +488,6 @@ h1 {
 	left: 670px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .gc img {
@@ -404,7 +497,6 @@ h1 {
 	left: 700px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .gd img {
@@ -414,7 +506,6 @@ h1 {
 	left: 590px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .ge img {
@@ -424,7 +515,6 @@ h1 {
 	left: 560px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .gf img {
@@ -434,7 +524,6 @@ h1 {
 	left: 570px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .gg img {
@@ -444,7 +533,6 @@ h1 {
 	left: 640px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .gh img {
@@ -454,7 +542,6 @@ h1 {
 	left: 710px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .gi img{
@@ -464,7 +551,6 @@ h1 {
 	left: 710px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .gj img{
@@ -474,7 +560,6 @@ h1 {
 	left: 590px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 @keyframes bounce {
@@ -577,38 +662,38 @@ h1 {
 }
 
 .g1-shape {
-	width: 170px;
+	width: 130px;
 	position: absolute;
-	top: 10px;
-	left: 40px;
+	top: 20px;
+	left: 60px;
 }
 
 .g2-shape {
 	width: 50px;
 	position: absolute;
 	top: 10px;
-	left: 300px;
+	left: 250px;
 }
 
 .g3-shape {
 	width: 40px;
 	position: absolute;
 	top: 5px;
-	left: 450px;
+	left: 400px;
 }
 
 .g4-shape {
-	width: 90px;
+	width: 70px;
 	position: absolute;
-	top: 5px;
-	left: 550px;
+	top: 25px;
+	left: 530px;
 }
 
 .g5-shape {
 	width: 100px;
 	position: absolute;
-	top: 40px;
-	right: 650px;
+	top: 36px;
+	right: 670px;
 }
 
 .g6-shape {
@@ -775,7 +860,6 @@ h1 {
 	left: 520px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .mb img {
@@ -785,7 +869,6 @@ h1 {
 	left: 640px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .mc img {
@@ -795,7 +878,6 @@ h1 {
 	left: 630px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .md img {
@@ -805,7 +887,6 @@ h1 {
 	left: 550px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .me img {
@@ -815,7 +896,6 @@ h1 {
 	left: 650px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .mf img {
@@ -825,7 +905,6 @@ h1 {
 	left: 570px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 @keyframes bounce {
@@ -1102,7 +1181,6 @@ h1 {
 	left: 685px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .pb img {
@@ -1112,7 +1190,6 @@ h1 {
 	left: 580px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .pc img {
@@ -1122,7 +1199,6 @@ h1 {
 	left: 650px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .pd img {
@@ -1132,7 +1208,6 @@ h1 {
 	left: 580px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .pe img {
@@ -1142,7 +1217,6 @@ h1 {
 	left: 550px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .pf img {
@@ -1152,7 +1226,6 @@ h1 {
 	left: 640px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .pg img {
@@ -1162,7 +1235,6 @@ h1 {
 	left: 664px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .ph img {
@@ -1172,7 +1244,6 @@ h1 {
 	left: 694px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 .pi img{
@@ -1182,7 +1253,6 @@ h1 {
 	left: 660px;
 	z-index: 2;
 	animation: bounce 2s infinite;
-	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
 @keyframes bounce {
