@@ -42,6 +42,16 @@ h1 {
     margin-left: 530px;
 }
 
+@media (max-width: 1024px) {
+  .g-shape {
+    position: static;
+    margin-top: 20px; 
+    margin-left: auto;
+    margin-right: auto;
+    gap: 40px;
+  }
+}
+
 .g-shape img:hover {
 	transform: scale(1.08);
 }
@@ -93,10 +103,20 @@ h1 {
     justify-content: center;
     align-items: center;
     position: absolute;
+    flex-direction: column;
     top: 180px;
     left: 680px;
     color: white;
 	font-family: 'Song Myung', serif;
+}
+
+@media (max-width: 1024px) {
+  .gg1 {
+    position: absolute !important;
+    top: 90px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
 }
 
 .gg2 {
@@ -112,6 +132,15 @@ h1 {
 	font-family: 'Song Myung', serif;
 }
 
+@media (max-width: 1024px) {
+  .gg2 {
+    position: absolute !important;
+    top: 320px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .gg3 {
 	text-align: center;
 	font-size: 25px;
@@ -123,6 +152,15 @@ h1 {
     left: 680px;
     color: white;
 	font-family: 'Song Myung', serif;
+}
+
+@media (max-width: 1024px) {
+  .gg3 {
+    position: absolute !important;
+    top: 650px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
 }
 
 .gg4 {
@@ -138,6 +176,15 @@ h1 {
 	font-family: 'Song Myung', serif;
 }
 
+@media (max-width: 1024px) {
+  .gg4 {
+    position: absolute !important;
+    top:950px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .gg5 {
 	text-align: center;
 	font-size: 25px;
@@ -151,6 +198,15 @@ h1 {
 	font-family: 'Song Myung', serif;
  }
 
+ @media (max-width: 1024px) {
+  .gg5 {
+    position: absolute !important;
+    top: 1170px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .gg6 {
 	text-align: center;
 	font-size: 25px;
@@ -162,6 +218,15 @@ h1 {
     left: 700px;
     color: white;
 	font-family: 'Song Myung', serif;
+}
+
+@media (max-width: 1024px) {
+  .gg6 {
+    position: absolute !important;
+    top: 1360px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
 }
 
 .gg7 {
@@ -177,6 +242,15 @@ h1 {
 	font-family: 'Song Myung', serif;
 }
 
+@media (max-width: 1024px) {
+  .gg7 {
+    position: absolute !important;
+    top: 1600px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .gg8 {
 	text-align: center;
 	font-size: 25px;
@@ -188,6 +262,15 @@ h1 {
     left: 700px;
     color: white;
 	font-family: 'Song Myung', serif;
+}
+
+@media (max-width: 1024px) {
+  .gg8 {
+    position: absolute !important;
+    top: 1900px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
 }
 
 .gg9 {
@@ -203,6 +286,15 @@ h1 {
 	font-family: 'Song Myung', serif;
 }
 
+@media (max-width: 1024px) {
+  .gg9 {
+    position: absolute !important;
+    top: 2200px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .gg10 {
 	text-align: center;
 	font-size: 25px;
@@ -214,6 +306,15 @@ h1 {
     left: 680px;
     color: white;
 	font-family: 'Song Myung', serif;
+}
+
+@media (max-width: 1024px) {
+  .gg10 {
+    position: absolute !important;
+    top: 2500px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
 }
 
 .h-icon {
@@ -481,6 +582,16 @@ h1 {
 	animation: bounce 2s infinite;
 }
 
+@media (max-width: 1024px) {
+  .ga img{
+  	position: static !important;
+    width: 450px !important;
+    margin-top: 300px !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 .gb img {
 	width: 170px;
 	position: absolute;
@@ -488,6 +599,16 @@ h1 {
 	left: 670px;
 	z-index: 2;
 	animation: bounce 2s infinite;
+}
+
+@media (max-width: 1024px) {
+  .gb img{
+  	position: static !important;
+    width: 170px !important;
+    margin-top: 300px !important;
+    margin-left: 130px;
+    margin-right: auto;
+  }
 }
 
 .gc img {
@@ -578,11 +699,31 @@ h1 {
 	left: 530px;
 }
 
+@media (max-width: 1024px) {
+  .g-detail1 img{
+  	position: static !important;
+    width: 450px !important;
+    margin-top: -400px !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 .g-detail2 img{
 	width: 450px;
 	position: absolute;
 	top: 200px;
 	left: 530px;
+}
+
+@media (max-width: 1024px) {
+  .g-detail2 img{
+  	position: static !important;
+    width: 450px !important;
+    margin-top: -400px !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .g-detail3 img {
@@ -747,6 +888,16 @@ h1 {
     margin-left: 540px;
 }
 
+@media (max-width: 1024px) {
+  .m-shape {
+    position: static;
+    margin-top: 20px; 
+    margin-left: auto;
+    margin-right: auto;
+    gap: 40px;
+  }
+}
+
 .m-shape img:hover {
 	transform: scale(1.08);
 }
@@ -788,6 +939,15 @@ h1 {
 	font-family: 'Song Myung', serif;
 }
 
+@media (max-width: 1024px) {
+  .mm1 {
+    position: absolute !important;
+    top: 70px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .mm2 {
 	text-align: center;
 	font-size: 25px;
@@ -799,6 +959,15 @@ h1 {
     left: 670px;
     color: white;
 	font-family: 'Song Myung', serif;
+}
+
+@media (max-width: 1024px) {
+  .mm2 {
+    position: absolute !important;
+    top: 300px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
 }
 
 .mm3 {
@@ -814,6 +983,15 @@ h1 {
 	font-family: 'Song Myung', serif;
 }
 
+@media (max-width: 1024px) {
+  .mm3 {
+    position: absolute !important;
+    top: 570px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .mm4 {
 	text-align: center;
 	font-size: 25px;
@@ -825,6 +1003,15 @@ h1 {
     left: 720px;
     color: white;
 	font-family: 'Song Myung', serif;
+}
+
+@media (max-width: 1024px) {
+  .mm4 {
+    position: absolute !important;
+    top: 820px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
 }
 
 .mm5 {
@@ -840,6 +1027,15 @@ h1 {
 	font-family: 'Song Myung', serif;
 }
 
+@media (max-width: 1024px) {
+  .mm5 {
+    position: absolute !important;
+    top: 1070px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .mm6 {
 	text-align: center;
 	font-size: 25px;
@@ -851,6 +1047,15 @@ h1 {
     left: 690px;
     color: white;
 	font-family: 'Song Myung', serif;
+}
+
+@media (max-width: 1024px) {
+  .mm6 {
+    position: absolute !important;
+    top: 1300px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
 }
 
 .ma img {
@@ -1017,6 +1222,16 @@ h1 {
     margin-left: 530px;
 }
 
+@media (max-width: 1024px) {
+  .p-shape {
+    position: static;
+    margin-top: 20px; 
+    margin-left: auto;
+    margin-right: auto;
+    gap: 40px;
+  }
+}
+
 .p-shape img:hover {
 	transform: scale(1.08);
 }
@@ -1070,6 +1285,15 @@ h1 {
 	font-family: 'Song Myung', serif;
 }
 
+@media (max-width: 1024px) {
+  .pp1 {
+    position: absolute !important;
+    top: 130px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .pp2 {
 	text-align: center;
 	font-size: 25px;
@@ -1081,6 +1305,15 @@ h1 {
     left: 720px;
     color: white;
 	font-family: 'Song Myung', serif;
+}
+
+@media (max-width: 1024px) {
+  .pp2 {
+    position: absolute !important;
+    top: 350px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
 }
 
 .pp3 {
@@ -1096,6 +1329,15 @@ h1 {
 	font-family: 'Song Myung', serif;
 }
 
+@media (max-width: 1024px) {
+  .pp3 {
+    position: absolute !important;
+    top: 600px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .pp4 {
 	text-align: center;
 	font-size: 25px;
@@ -1107,6 +1349,15 @@ h1 {
     left: 710px;
     color: white;
 	font-family: 'Song Myung', serif;
+}
+
+@media (max-width: 1024px) {
+  .pp4 {
+    position: absolute !important;
+    top: 920px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
 }
 
 .pp5 {
@@ -1122,6 +1373,15 @@ h1 {
 	font-family: 'Song Myung', serif;
 }
 
+@media (max-width: 1024px) {
+  .pp5 {
+    position: absolute !important;
+    top: 1200px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .pp6 {
 	text-align: center;
 	font-size: 25px;
@@ -1133,6 +1393,15 @@ h1 {
     left: 710px;
     color: white;
 	font-family: 'Song Myung', serif;
+}
+
+@media (max-width: 1024px) {
+  .pp6 {
+    position: absolute !important;
+    top: 1450px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
 }
 
 .pp7 {
@@ -1148,6 +1417,15 @@ h1 {
 	font-family: 'Song Myung', serif;
 }
 
+@media (max-width: 1024px) {
+  .pp7 {
+    position: absolute !important;
+    top: 1720px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .pp8 {
 	text-align: center;
 	font-size: 25px;
@@ -1161,6 +1439,15 @@ h1 {
 	font-family: 'Song Myung', serif;
 }
 
+@media (max-width: 1024px) {
+  .pp8 {
+    position: absolute !important;
+    top: 2100px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
+}
+
 .pp9 {
 	text-align: center;
 	font-size: 25px;
@@ -1172,6 +1459,15 @@ h1 {
     left: 690px;
     color: white;
 	font-family: 'Song Myung', serif;
+}
+
+@media (max-width: 1024px) {
+  .pp9 {
+    position: absolute !important;
+    top: 2550px !important;
+    left: 50px !important;
+    font-size: 25px !important;
+  }
 }
 
 .pa img {
